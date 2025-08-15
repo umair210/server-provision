@@ -1,0 +1,1 @@
+#will be adding the model for the auth stuff here including user and role models, and data validation with pydantic

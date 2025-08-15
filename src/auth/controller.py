@@ -1,0 +1,2 @@
+#this file will be using the rate limiting decorator to limit the number of requests a user can make to the auth endpoints
+#this will also handle the token generation and validation for the auth service
